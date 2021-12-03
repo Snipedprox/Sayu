@@ -4,5 +4,5 @@ Lexxy#7934
 if your gonna host use repl if not change the process.env.token to " (your bot token) ",
 shoot me a dm if errors found
 
-coding language is: **Aoi.js** (not bdfd)
+coding language is: **Aoi.js** V5 (not bdfd)
 
