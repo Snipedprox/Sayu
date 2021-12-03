@@ -37,6 +37,6 @@ type: "0",
     worth: "0",
     promocode: "0",
     job: "none"
-    }, "leaf")
+    }, "lexi")
 }
 
